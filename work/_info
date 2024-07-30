@@ -1,0 +1,343 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1722201983
+V<Y]1zP7kd@c6dJIdj_h713
+Z2 04 10 4 work DSP48A1_TB fast 0
+=1-44e517ccfb3c-66a6b77f-268-5b00
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1722341515
+VQYhb?BD6R<81A^UTHQO8Z1
+R2
+=1-44e517ccfb3c-66a8d88b-16d-2b08
+R3
+R4
+R5
+n@_opt1
+R6
+T_opt2
+!s110 1722257743
+VJNR0UMa:?j_kXUCdWo?WZ3
+04 7 4 work Add_sub fast 0
+=1-44e517ccfb3c-66a7914f-46-23a8
+R3
+R4
+R5
+n@_opt2
+R6
+R1
+vA_DFF
+Z7 !s110 1722341514
+!i10b 1
+!s100 P[C]`Azn[X_`hm^;K^i:Y2
+IzTn32UJg?QkfAAXYD7aeU2
+Z8 dD:/Digital IC Design/Diploma/Project1_DSP48A1
+w1722158858
+8A_DFF.v
+FA_DFF.v
+!i122 169
+Z9 L0 1 13
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z12 !s108 1722341514.000000
+Z13 !s107 DSP48A1_TB.v|DSP48A1.v|MUX_4x1.v|Multiplier.v|Add_sub.v|DFF.v|A_DFF.v|
+Z14 !s90 -reportprogress|300|-f|file_DSP.txt|
+!i113 0
+Z15 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@a_@d@f@f
+vAdd_sub
+R7
+!i10b 1
+!s100 OCJJ?igR>T4nfLLeJQ<QN1
+I>`8C_h2`TBSLDS@<k1Ro?0
+R8
+w1722095482
+8Add_sub.v
+FAdd_sub.v
+!i122 169
+Z16 L0 1 7
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@add_sub
+vB_MUX_2x1
+Z17 !s110 1722167354
+!i10b 1
+!s100 X?OEVzNNQN2GLAC2BoXO;3
+I0<e8nb]GdYoMb]5LkPKQ73
+R8
+w1722097110
+8D:/Digital IC Design/Diploma/Project1_DSP48A1/B_MUX_2x1.v
+FD:/Digital IC Design/Diploma/Project1_DSP48A1/B_MUX_2x1.v
+!i122 79
+R16
+R10
+R11
+r1
+!s85 0
+31
+Z18 !s108 1722167354.000000
+!s107 D:/Digital IC Design/Diploma/Project1_DSP48A1/B_MUX_2x1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital IC Design/Diploma/Project1_DSP48A1/B_MUX_2x1.v|
+!i113 0
+Z19 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@b_@m@u@x_2x1
+vDFF
+R7
+!i10b 1
+!s100 U38_U^VjH=X8K7@SGYY@l2
+IGD4=lNQFEke2Hg[e<A8dP1
+R8
+w1722158847
+8DFF.v
+FDFF.v
+!i122 169
+R9
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@d@f@f
+vDFF_MUX
+!s110 1722246419
+!i10b 1
+!s100 WZ`We=RjGfWP3fSANfkgf2
+ITHGV@oZzhS^GQccKWFZ[W2
+R8
+w1722159832
+8D:/Digital IC Design/Diploma/Project1_DSP48A1/DFF_MUX.v
+FD:/Digital IC Design/Diploma/Project1_DSP48A1/DFF_MUX.v
+!i122 153
+L0 1 19
+R10
+R11
+r1
+!s85 0
+31
+!s108 1722246419.000000
+!s107 D:/Digital IC Design/Diploma/Project1_DSP48A1/DFF_MUX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital IC Design/Diploma/Project1_DSP48A1/DFF_MUX.v|
+!i113 0
+R19
+R5
+n@d@f@f_@m@u@x
+vDSP48A1
+R7
+!i10b 1
+!s100 ?OSa0TdOo4IS84JfgGb8B2
+I8Ag8HeeATcj=9@61EebS12
+R8
+w1722338089
+8DSP48A1.v
+FDSP48A1.v
+!i122 169
+L0 1 61
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@d@s@p48@a1
+vDSP48A1_TB
+R7
+!i10b 1
+!s100 Vo>bU@P4G6XCFaQQO_1Va0
+I][5^LHYTiJ5i;bec0;eIE3
+R8
+w1722338125
+8DSP48A1_TB.v
+FDSP48A1_TB.v
+!i122 169
+L0 1 215
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@d@s@p48@a1_@t@b
+vMultiplier
+R7
+!i10b 1
+!s100 Zlb1F=mVeBU?PhCz[D:C`1
+IdQ5m?HnRW7]FBKkM_QmI>0
+R8
+w1722103164
+8Multiplier.v
+FMultiplier.v
+!i122 169
+L0 1 6
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@multiplier
+vMUX_2x1
+!s110 1722167350
+!i10b 1
+!s100 Y_3Q;E9H=7h@]R00F0I9S2
+Ib6z2HPCh@S=m`QkV4@dCg3
+R8
+w1722102448
+8D:/Digital IC Design/Diploma/Project1_DSP48A1/MUX_2x1.v
+FD:/Digital IC Design/Diploma/Project1_DSP48A1/MUX_2x1.v
+!i122 74
+R16
+R10
+R11
+r1
+!s85 0
+31
+!s108 1722167349.000000
+!s107 D:/Digital IC Design/Diploma/Project1_DSP48A1/MUX_2x1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital IC Design/Diploma/Project1_DSP48A1/MUX_2x1.v|
+!i113 0
+R19
+R5
+n@m@u@x_2x1
+vMUX_4x1
+R7
+!i10b 1
+!s100 Inf:G<TBUzI`0B@@SBRVE2
+ISEdnoZmeENn?<5ji>zSYi0
+R8
+w1722178451
+8MUX_4x1.v
+FMUX_4x1.v
+!i122 169
+L0 1 16
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+n@m@u@x_4x1
+vopmode5_MUX
+R17
+!i10b 1
+!s100 k<_7MK59g<4aFoDj1NFz43
+IXfjQ_E=GMbFgo>>RAom^>0
+R8
+w1722117335
+8D:/Digital IC Design/Diploma/Project1_DSP48A1/opmode5_MUX.v
+FD:/Digital IC Design/Diploma/Project1_DSP48A1/opmode5_MUX.v
+!i122 80
+R16
+R10
+R11
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital IC Design/Diploma/Project1_DSP48A1/opmode5_MUX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital IC Design/Diploma/Project1_DSP48A1/opmode5_MUX.v|
+!i113 0
+R19
+R5
+nopmode5_@m@u@x
+vREG_MUX
+!s110 1722156222
+!i10b 1
+!s100 8=6[oMk=GcXVPT>XgJcYF2
+Ii<6cK0gB7glg^b2]8IaH^1
+R8
+w1722148167
+8D:/Digital IC Design/Diploma/Project1_DSP48A1/REG_MUX.v
+FD:/Digital IC Design/Diploma/Project1_DSP48A1/REG_MUX.v
+!i122 63
+L0 1 17
+R10
+R11
+r1
+!s85 0
+31
+!s108 1722156222.000000
+!s107 D:/Digital IC Design/Diploma/Project1_DSP48A1/REG_MUX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital IC Design/Diploma/Project1_DSP48A1/REG_MUX.v|
+!i113 0
+R19
+R5
+n@r@e@g_@m@u@x
